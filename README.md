@@ -1,4 +1,11 @@
-eynsham
+Eynsham
 =======
 
-Eynsham
+## Opening Times
+
+Shop | Mon | Tue | Wed | Thu | Fri | Sat | Sun
+:--- | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+**Bakery** | X | 7:30 <br> 13:00 | 7:30 <br> 13:00 | 7:30 <br> 16:00 | 7:30 <br> 16:00 | 7:30 <br> 14:00 | X |
+**Butchers** | X | 7:30 <br> 16:30 | 7:30 <br> 16:30 | 7:30 <br> 16:30 | 7:30 <br> 17:30 | 7:30 <br> 14:00 | X
+
+
